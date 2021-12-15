@@ -14,4 +14,6 @@ Created, Designed, and Owned by AtMostFear#7752 Developer
 
 # Links
 - [Our Website](https://sites.google.com/view/atmostfeardevelopersite)
+- [Support Server](https://discord.gg/6XSjbKBbJT)
 - [Host on Replit](https://replit.com/github/RayZenYTBE/Perseus)
+- [Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/RayZenYTBE/RedFace)
